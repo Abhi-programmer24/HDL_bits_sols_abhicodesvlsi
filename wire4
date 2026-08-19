@@ -1,0 +1,8 @@
+module top_module(w,x,y,z,a,b,c);
+    output w,x,y,z;
+    input a,b,c;
+    assign w =a;
+    assign x =b;
+    assign y =b;
+    assign z =c;
+endmodule 
